@@ -1,0 +1,26 @@
+#include<stdio.h>
+int main()
+{
+    int n,u,h,r;
+    scanf("%d",&n);
+    if(n>99)
+    {
+    u=n%10;
+    h=(n/100)%10;
+    r=u*h;
+    }
+    else
+    {
+    printf("-1");
+    }
+    printf("%d",r);
+}
+
+
+
+6.int r,a[1000
+
+
+
+
+
